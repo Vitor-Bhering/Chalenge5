@@ -1,3 +1,39 @@
 body{
-  background-color: #676767;
+  background-color: hsl(185, 41%, 84%);
+}
+
+.main{
+  background-color: white;
+  position: absolute;
+  top: 100px;
+  left: 400px;
+  padding: 100px;
+  border-radius: 20px;
+}
+
+.inputElements{
+  /* position: absolute;
+  top: 100px;
+  left: 500px; */
+}
+.outputElements{
+  /* position: absolute;
+  top: 100px;
+  left: 800px; */
+}
+
+#tipOptions{
+  border-spacing: 15px;
+
+}
+#tipOption{
+  background-color: hsl(183, 100%, 15%);
+  color: white;
+  font-size: 24px;
+  border-spacing: 100px;
+  border-radius: 10px;
+  padding: 13px 50px;
+  margin-left: 100px;
+  
+
 }
